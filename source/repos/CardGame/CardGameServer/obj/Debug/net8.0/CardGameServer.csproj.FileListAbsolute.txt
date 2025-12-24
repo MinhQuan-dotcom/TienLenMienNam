@@ -1,0 +1,17 @@
+C:\Users\hongn\source\repos\CardGame\CardGameServer\bin\Debug\net8.0\CardGameServer.exe
+C:\Users\hongn\source\repos\CardGame\CardGameServer\bin\Debug\net8.0\CardGameServer.dll.config
+C:\Users\hongn\source\repos\CardGame\CardGameServer\bin\Debug\net8.0\CardGameServer.deps.json
+C:\Users\hongn\source\repos\CardGame\CardGameServer\bin\Debug\net8.0\CardGameServer.runtimeconfig.json
+C:\Users\hongn\source\repos\CardGame\CardGameServer\bin\Debug\net8.0\CardGameServer.dll
+C:\Users\hongn\source\repos\CardGame\CardGameServer\bin\Debug\net8.0\CardGameServer.pdb
+C:\Users\hongn\source\repos\CardGame\CardGameServer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\hongn\source\repos\CardGame\CardGameServer\obj\Debug\net8.0\CardGameServer.csproj.AssemblyReference.cache
+C:\Users\hongn\source\repos\CardGame\CardGameServer\obj\Debug\net8.0\CardGameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hongn\source\repos\CardGame\CardGameServer\obj\Debug\net8.0\CardGameServer.csproj.CoreCompileInputs.cache
+C:\Users\hongn\source\repos\CardGame\CardGameServer\obj\Debug\net8.0\CardGameServer.sourcelink.json
+C:\Users\hongn\source\repos\CardGame\CardGameServer\obj\Debug\net8.0\CardGame.271968B0.Up2Date
+C:\Users\hongn\source\repos\CardGame\CardGameServer\obj\Debug\net8.0\CardGameServer.dll
+C:\Users\hongn\source\repos\CardGame\CardGameServer\obj\Debug\net8.0\refint\CardGameServer.dll
+C:\Users\hongn\source\repos\CardGame\CardGameServer\obj\Debug\net8.0\CardGameServer.pdb
+C:\Users\hongn\source\repos\CardGame\CardGameServer\obj\Debug\net8.0\CardGameServer.genruntimeconfig.cache
+C:\Users\hongn\source\repos\CardGame\CardGameServer\obj\Debug\net8.0\ref\CardGameServer.dll

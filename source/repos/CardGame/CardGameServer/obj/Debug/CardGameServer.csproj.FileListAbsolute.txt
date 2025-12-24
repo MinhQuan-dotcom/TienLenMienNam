@@ -1,0 +1,14 @@
+C:\Users\hongn\source\repos\CardGame\CardGameServer\bin\Debug\CardGameServer.exe.config
+C:\Users\hongn\source\repos\CardGame\CardGameServer\bin\Debug\CardGameServer.exe
+C:\Users\hongn\source\repos\CardGame\CardGameServer\bin\Debug\CardGameServer.pdb
+C:\Users\hongn\source\repos\CardGame\CardGameServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hongn\source\repos\CardGame\CardGameServer\bin\Debug\System.Drawing.Common.dll
+C:\Users\hongn\source\repos\CardGame\CardGameServer\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\hongn\source\repos\CardGame\CardGameServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hongn\source\repos\CardGame\CardGameServer\bin\Debug\System.Drawing.Common.pdb
+C:\Users\hongn\source\repos\CardGame\CardGameServer\bin\Debug\System.Drawing.Common.xml
+C:\Users\hongn\source\repos\CardGame\CardGameServer\obj\Debug\CardGameServer.csproj.AssemblyReference.cache
+C:\Users\hongn\source\repos\CardGame\CardGameServer\obj\Debug\CardGameServer.csproj.CoreCompileInputs.cache
+C:\Users\hongn\source\repos\CardGame\CardGameServer\obj\Debug\CardGame.271968B0.Up2Date
+C:\Users\hongn\source\repos\CardGame\CardGameServer\obj\Debug\CardGameServer.exe
+C:\Users\hongn\source\repos\CardGame\CardGameServer\obj\Debug\CardGameServer.pdb

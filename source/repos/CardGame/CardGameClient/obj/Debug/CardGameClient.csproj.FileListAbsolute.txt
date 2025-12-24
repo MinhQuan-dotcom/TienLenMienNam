@@ -1,0 +1,2 @@
+C:\Users\hongn\source\repos\CardGame\CardGameClient\obj\Debug\CardGameClient.csproj.AssemblyReference.cache
+C:\Users\hongn\source\repos\CardGame\CardGameClient\obj\Debug\CardGameClient.csproj.CoreCompileInputs.cache

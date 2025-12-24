@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ba/cTCxDAgA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hongn\\source\\repos\\CardGame\\CardGameServer\\CardGameServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hongn\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
